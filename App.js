@@ -1,5 +1,4 @@
-import React, {createRef, useState} from 'react';
-
+import React, {useState} from 'react';
 import {
   SafeAreaView,
   StyleSheet,
